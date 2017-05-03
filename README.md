@@ -29,7 +29,7 @@ dokku config:set minio MINIO_SECRET_KEY=wJalrXUtnFEMI/K7MDENG/EXAMPLEKEY
 
 ### Create your Dockerfile
 ```
-git clone https://github.com/OmgImAlexis/dokku-minio.git && cd docker-minio
+git clone https://github.com/OmgImAlexis/dokku-minio.git && cd dokku-minio
 ```
 
 ### Add Dokku remote, and Deploy
